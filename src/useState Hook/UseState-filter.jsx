@@ -1,5 +1,5 @@
 import React from 'react';
-import { data } from '../../data/data';
+import { data } from '../data/data';
 
 export default function UseStateFilter() {
     const [people, setPeople] = React.useState(data);

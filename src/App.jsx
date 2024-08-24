@@ -1,10 +1,10 @@
 import { Fragment } from 'react';
 import './App.css';
-import UseStateArrays from './hooks/useState/UseState-arrays';
-import UseStateBasics from './hooks/useState/UseState-basics';
-import UseStateFilter from './hooks/useState/UseState-filter';
-import UseStateObject from './hooks/useState/UseState-object';
-import UseStateCounter from './hooks/useState/UseState-counter';
+import UseStateArrays from './useState Hook/UseState-arrays';
+import UseStateBasics from './useState Hook/UseState-basics';
+import UseStateFilter from './useState Hook/UseState-filter';
+import UseStateObject from './useState Hook/UseState-object';
+import UseStateCounter from './useState Hook/UseState-counter';
 
 function App() {
   return (
